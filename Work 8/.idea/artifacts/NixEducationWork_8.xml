@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NixEducationWork_8">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="NixEducationWork_8.jar">
+      <element id="module-output" name="Work 8" />
+    </root>
+  </artifact>
+</component>
